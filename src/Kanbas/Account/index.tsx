@@ -8,7 +8,7 @@ export default function Account() {
     <div id="wd-account-screen">
       <table>
         <tr>
-          <td valign="top">
+          <td valign="top" className="pe-4">
             <AccountNavigation />
           </td>
           <td valign="top">
