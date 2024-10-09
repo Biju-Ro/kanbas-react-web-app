@@ -17,7 +17,7 @@ export default function Assignments() {
     <div id="wd-assignments" className="container mt-5">
       <div className="d-flex mb-4 justify-content-between align-items-center">
         <div className="input-group me-3" style={{ width: "250px" }}>
-          <span className="input-group-text">
+          <span className="input-group-text hi">
             <FaSearch />
           </span>
           <input type="text" className="form-control" placeholder="Search..." />
